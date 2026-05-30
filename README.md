@@ -62,3 +62,7 @@ Documentação Swagger disponível em `http://localhost:8080/swagger-ui.html`.
 ```
 
 Tipos permitidos: `FAMILIA`, `AMIGO`, `TRABALHO`, `OUTRO`.
+
+
+Alunos: Victor Batista, João Gabriel, elidawydson Santos
+
